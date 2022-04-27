@@ -21,7 +21,7 @@ export const projects = [
     title: 'Food Website',
     description: "",
       image: '/images/3.png',
-      tags: ['Django', 'Boostrap'],
+      tags: ['Django', 'Bootstrap'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
