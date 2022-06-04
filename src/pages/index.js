@@ -10,9 +10,6 @@ import Head from 'next/head';
 const Home = () => {
   doucment.title = "Syed Adeeb's Personal Portfolio";
   return (
-    <Head>
-      <title>Syed Adeeb Personal Portfolio<title/>
-    <Head />
     <Layout>
       <Section grid>
         <Hero />
